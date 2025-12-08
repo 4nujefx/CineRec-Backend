@@ -1,1 +1,1 @@
-# CineRec-Backend
+CineRec is a simple Spring Boot backend that manages movies and genres, built using a clean layered architecture (Controller → Service → Repository → Entity). It provides REST APIs to add genres, add movies under a specific genre, fetch movies by genre, and view all movies. The project uses Spring Boot, Spring Data JPA, and MySQL, making it a great beginner-friendly backend project to understand REST API design and database integration.
